@@ -1,5 +1,6 @@
 # wearOS-terminal-face
 A watchface that looks like a small terminal for wearOS
+
 ![terminal_1720477658672](https://github.com/Fiotux/wearOS-terminal-face/assets/74451820/a109259a-b8aa-4943-bb04-c60650581986)
 ![tokyo night_1720479609444](https://github.com/Fiotux/wearOS-terminal-face/assets/74451820/7a6970c9-557a-4497-9d76-9b27ebd7e594)
 
