@@ -13,7 +13,7 @@ A watchface that looks like a small terminal for wearOS
 5) **Install** the app using ```adb install <path to .apk file>```
 
 
-##deactivate watchface notification indicator
+## deactivate watchface notification indicator
 It is recommendet to turn of the orange notification dot so you can use the integrated notification dot.
 
 1) Open Setting on your WearOS device.
